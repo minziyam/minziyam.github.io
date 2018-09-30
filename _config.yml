@@ -2,7 +2,7 @@
 baseurl: ""
 url: "https://minziyam.github.io"
 title: minji blog # site's title
-description: "A website with blog posts and pages" # used by search engines
+description: "개인 공부용" # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
